@@ -40,3 +40,6 @@ FLUX 3 is **not** used. The BFL FLUX 3 bonus is blocked until FLUX 3 weights are
 
 ## License
 Code: MIT (`LICENSE`). LTX-2.x weights: LTX-2.x Community License (not MIT). FLUX.2 Klein weights: their own license. See `NOTICE`.
+
+## Docs
+- [Atlas Studio bake pipeline (RU)](docs/atlas_studio_bake_ru.md) — node graph hi-poly→retopo→Bake High→Low; Cycles recipe for IEA-5 / characters.
