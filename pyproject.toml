@@ -1,0 +1,10 @@
+[project]
+name = "previz2shot"
+version = "0.1.0"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = ["requests"]
+[project.scripts]
+previz2shot = "previz2shot.cli:main"
+[tool.setuptools.packages.find]
+where = ["cli"]

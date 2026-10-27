@@ -1,0 +1,4 @@
+previz2shot code is MIT licensed (see LICENSE).
+Model weights are NOT part of this repository and are licensed separately:
+- LTX-2.5 / LTX-2.x weights (Lightricks): LTX-2.x Community License.
+- FLUX.2 Klein 4B weights (Black Forest Labs): see the model card license.

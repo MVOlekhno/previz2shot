@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "previz2shot"
+version = "0.1.0"
+name = "previz2shot"
+tagline = "Grey playblast to styled shot via Comfy (FLUX 3 + LTX-2.5)"
+maintainer = "Maks Olekhno"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:MIT"]
+[permissions]
+network = "Calls Comfy Cloud / Comfy API / local ComfyUI"
+files = "Writes playblasts and downloaded renders"

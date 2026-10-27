@@ -1,0 +1,13 @@
+test_runs/
+models/
+deploy/
+__pycache__/
+*.pyc
+*.egg-info/
+.env
+*.env
+*secret*
+*.safetensors
+*.log
+*.err
+tmp/
